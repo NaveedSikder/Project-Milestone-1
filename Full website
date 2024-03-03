@@ -23,5 +23,7 @@ body {
   <div>
     <p><span>This website is for testing only</span>to start off making the elements needed for a website</p>
   </div>
-  
+  body {
+    background-color: red;
+  }
   
